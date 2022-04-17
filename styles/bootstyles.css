@@ -1,0 +1,40 @@
+﻿body {
+    /*font-family: Verdana, Geneva, Tahoma, sans-serif;*/
+    font-family: 'Raleway', Verdana, sans-serif;
+    color: white;
+    background-color: #789580;
+}
+.common {
+    position: absolute;
+}
+.header {
+    top: 35px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #3F4E42;
+}
+.header a {
+    color: white;
+    text-decoration: none;
+}
+.header ul li {
+    display: inline-block;
+    padding: 0px 25px 0px 25px;
+}
+.body {
+    top: 70px;
+    right: 5px;
+    left: 5px;
+    bottom: 70px;
+}
+.footer {
+    bottom: 0px;
+    height: 25px;
+    left: 0px;
+    right: 0px;
+    background-color: #3F4E42;
+    position: fixed;
+}

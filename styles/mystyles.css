@@ -1,0 +1,32 @@
+﻿body {
+    background-image: linear-gradient(rgba(24, 47, 15, 0.2), rgba(24, 47, 15, 0.2)), url("../images/bg.jpg");
+}
+:root {
+    --bs-primary-rgb: 213, 118, 89;
+    --bs-secondary-rgb: 220, 184, 157;
+}
+#mainNav {
+    background-color: rgb(42, 53, 44);
+}
+.bg-faded {
+    background-color: #dcb89d;
+}
+.cta {
+    background-color: rgba(161, 109, 84, 0.9);
+}
+a {
+    color: #D57659;
+}
+th {
+    font-weight: bold;
+}
+td {
+    text-align: left;
+    padding: 10px;
+}
+ul li {
+    text-align: left;
+}
+.footer {
+    background-color: rgba(42, 53, 44, 0.9);
+}
